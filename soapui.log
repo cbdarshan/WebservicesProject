@@ -1,0 +1,71 @@
+2020-09-24 21:03:06,999 WARN  [SoapUI] Missing folder [C:\Users\DarshanB\Desktop\WebservicesProject\my-app\ext] for external libraries
+2020-09-24 21:03:07,324 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DarshanB\soapui-settings.xml]
+2020-09-24 21:03:08,628 INFO  [WsdlProject] Loaded project from [file:/C:/Users/DarshanB/Desktop/WebservicesProject/my-app/Soap-Project-soapui-project.xml]
+2020-09-24 21:03:09,948 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Soap Project]
+2020-09-24 21:03:09,951 INFO  [SoapUITestCaseRunner] Running Project [Soap Project], runType = SEQUENTIAL
+2020-09-24 21:03:10,017 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property and property transfer]
+2020-09-24 21:03:10,044 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-24 21:03:10,163 INFO  [SoapUITestCaseRunner] running step [Transfer_ProductName]
+2020-09-24 21:03:10,763 INFO  [SoapUITestCaseRunner] running step [SaveRequest]
+2020-09-24 21:03:44,064 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:03:44,064 INFO  [SoapUITestCaseRunner] running step [GetList]
+2020-09-24 21:04:18,860 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:18,860 INFO  [SoapUITestCaseRunner] running step [OrderId_to_GetById]
+2020-09-24 21:04:18,871 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-09-24 21:04:19,516 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:19,517 INFO  [SoapUITestCaseRunner] running step [OrderId_to_GetStatus]
+2020-09-24 21:04:19,527 INFO  [SoapUITestCaseRunner] running step [GetStatus]
+2020-09-24 21:04:20,217 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:20,217 INFO  [SoapUITestCaseRunner] running step [OrderId_to_Cancel]
+2020-09-24 21:04:20,222 INFO  [SoapUITestCaseRunner] running step [CancelReq]
+2020-09-24 21:04:21,649 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:21,655 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property and property transfer], time taken: 71561ms, status: FINISHED
+2020-09-24 21:04:21,661 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property and Property Expansion]
+2020-09-24 21:04:21,663 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-24 21:04:21,664 INFO  [SoapUITestCaseRunner] running step [SaveRequest]
+2020-09-24 21:04:23,276 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:23,277 INFO  [SoapUITestCaseRunner] running step [GetList]
+2020-09-24 21:04:56,058 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:56,060 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-09-24 21:04:56,689 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:56,692 INFO  [SoapUITestCaseRunner] running step [GetStatus]
+2020-09-24 21:04:57,244 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:57,246 INFO  [SoapUITestCaseRunner] running step [CancelReq]
+2020-09-24 21:04:57,834 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:57,837 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property and Property Expansion], time taken: 36157ms, status: FINISHED
+2020-09-24 21:04:57,839 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Groovy Script Assertion]
+2020-09-24 21:04:57,840 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-24 21:04:57,840 INFO  [SoapUITestCaseRunner] running step [SaveRequest]
+2020-09-24 21:04:58,874 INFO  [log] 1640
+2020-09-24 21:04:58,897 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:04:58,900 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-09-24 21:04:58,901 INFO  [SoapUITestCaseRunner] running step [GetList]
+2020-09-24 21:05:28,418 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:05:28,418 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-09-24 21:05:30,989 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:05:30,990 INFO  [SoapUITestCaseRunner] running step [GetStatus]
+2020-09-24 21:05:31,589 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:05:31,590 INFO  [SoapUITestCaseRunner] running step [CancelReq]
+2020-09-24 21:05:32,167 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:05:32,168 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Groovy Script Assertion], time taken: 34310ms, status: FINISHED
+2020-09-24 21:05:32,172 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Groovy Test Case]
+2020-09-24 21:05:32,172 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-09-24 21:05:32,287 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Groovy Script Assertion]
+2020-09-24 21:05:32,296 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-24 21:05:32,299 INFO  [SoapUITestCaseRunner] running step [SaveRequest]
+2020-09-24 21:05:33,040 INFO  [log] 1641
+2020-09-24 21:05:33,042 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:05:33,043 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-09-24 21:05:33,044 INFO  [SoapUITestCaseRunner] running step [GetList]
+2020-09-24 21:06:02,866 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:06:02,866 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-09-24 21:06:03,474 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:06:03,475 INFO  [SoapUITestCaseRunner] running step [GetStatus]
+2020-09-24 21:06:04,044 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:06:04,046 INFO  [SoapUITestCaseRunner] running step [CancelReq]
+2020-09-24 21:06:04,599 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 21:06:04,599 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Groovy Script Assertion], time taken: 32281ms, status: FINISHED
+2020-09-24 21:06:04,622 INFO  [log] Status: FINISHED, time taken for Test Cases was :32281 ms
+2020-09-24 21:06:04,662 INFO  [log] total number of test steps executed are 6
+2020-09-24 21:06:04,668 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Groovy Test Case], time taken: 32491ms, status: FINISHED
+2020-09-24 21:06:04,674 INFO  [SoapUITestCaseRunner] Project [Soap Project] finished with status [FINISHED] in 174714ms
